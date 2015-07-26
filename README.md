@@ -1,5 +1,5 @@
 # Accelerometer_data
-This Coursera project cleans Samsung accelerometer data
+This Coursera project takes Samsung accelerometer data and combines the testing and training datasets. It outputs a summary of means for all "mean" and "std" variables.
 
 ## Overview
 > This project downloads, unzips, and tidies acceleration and rotational data taken from the Human Activity Recognition Using Smartphones Dataset Version 1.0. 
